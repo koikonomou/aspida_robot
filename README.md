@@ -11,7 +11,7 @@ $ git clone https://github.com/RobotnikAutomation/robotnik_msgs
 $ git clone -b melodic-devel https://github.com/RobotnikAutomation/robotnik_sensors  
 $ git clone -b melodic-devel https://github.com/ros-industrial/universal_robot  
 
-$ cd ~/catkin_ws
+$ cd ~/catkin_ws  
 $ catkin_make
 
 Spawn rviz and gazebo model by running:
